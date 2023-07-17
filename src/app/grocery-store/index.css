@@ -1,0 +1,20 @@
+
+.queue {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 0 8px;
+}
+
+#queue-box {
+    display: flex;
+    margin-top: 48px;
+}
+
+.customer {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 8px;
+}
